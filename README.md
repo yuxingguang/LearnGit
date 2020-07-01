@@ -1,1 +1,2 @@
 # LearnGit
+# everyone like git
